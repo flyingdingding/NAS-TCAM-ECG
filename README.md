@@ -1,2 +1,2 @@
-# NAS-TCAM-ECG
-Neural Architecture Search based Temporal and Channel joint Attention Module for 12-lead ECG classification. This work applies NAS technique into attention mechanism.
+# NAS ATTENTION PROJECTS
+1. Neural architecture search based temporal and channel joint attention module (NAS-TCAM) for classification of 12-lead electrocardiogram.
